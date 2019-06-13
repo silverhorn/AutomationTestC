@@ -1,4 +1,4 @@
-# Automation-test-assessment-C#
+# Automation test assessment C#
 **Version 1.0.1**
 This is one example of an automation test in C#.
 I used Chrome webdriver and **NUnit** framework for this example
